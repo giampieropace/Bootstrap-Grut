@@ -19,7 +19,23 @@ $spacers: (
 
 $enable-negative-margins: true;
 
+$grid-breakpoints: (
+  xs: 0,
+  sm: 37.5em,
+  md: 768px,
+  lg: 64em,
+  xl: 1200px,
+);
+
+$container-max-widths: (
+  sm: 37.5em,
+  md: 768px,
+  lg: 64em,
+  xl: 1200px,
+);
+
 @import "node_modules/bootstrap/scss/variables";
+
 @import "node_modules/bootstrap/scss/variables-dark";
 @import "node_modules/bootstrap/scss/maps";
 @import "node_modules/bootstrap/scss/mixins";
