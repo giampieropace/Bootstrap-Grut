@@ -1,6 +1,6 @@
 # Bootstrap-Grut
 
-This is a simple and lightened of Bootstrap 5 version that brings together grid system and utilities only.
+This is a simple and lightened version of Bootstrap 5 that brings together grid system and utilities only.
 
 It is a single 121 kb minified file and adds some custom configurations:
 
